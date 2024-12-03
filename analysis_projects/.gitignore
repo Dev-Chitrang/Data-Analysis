@@ -1,0 +1,4 @@
+carbon-emission-analysis/carbon-emissions
+.python-version
+pyproject.toml
+uv.lock
